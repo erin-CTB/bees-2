@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+burrito,1,5,6,6,9,active,0
+burrito,2,7,8,8,9,active,0
+burrito,3,9,10,9,9,active,0
+burrito,4,9,10,9,9,active,0
+burrito,1,9,2,9,9,passive,1
+burrito,2,9,3,9,9,passive,1
+burrito,3,2,9,9,9,passive,1
+burrito,4,2,9,9,9,passive,1
+
+

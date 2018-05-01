@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+bob,1,6,5,4,4,active,1
+bob,2,4,5,4,4,active,1
+bob,3,4,5,4,4,active,1
+bob,4,4,5,4,4,active,1
+bob,1,10,9,5,5,passive,0
+bob,2,7,10,5,5,passive,0
+bob,3,3,9,5,5,passive,0
+bob,4,6,10,5,5,passive,0
+
+

@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+Milly,1,6,7,7,7,active,1
+Milly,2,8,7,7,7,active,1
+Milly,3,3,8,7,7,active,1
+Milly,4,8,1,7,7,active,1
+Milly,1,7,4,7,7,passive,1
+Milly,2,9,3,7,7,passive,1
+Milly,3,9,2,7,7,passive,1
+Milly,4,1,6,6,7,passive,1
+
+

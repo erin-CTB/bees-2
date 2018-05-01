@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition
+rocky,1,2,8,6,2,passive
+rocky,2,5,4,3,2,passive
+rocky,3,5,2,3,2,passive
+rocky,4,5,9,2,2,passive
+rocky,1,5,6,6,8,active
+rocky,2,7,8,8,8,active
+rocky,3,9,8,8,8,active
+rocky,4,8,9,8,8,active
+
+

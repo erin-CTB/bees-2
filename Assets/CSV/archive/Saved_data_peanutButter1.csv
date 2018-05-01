@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition
+peanutButter,1,10,7,6,5,passive
+peanutButter,2,7,1,5,5,passive
+peanutButter,3,4,8,5,5,passive
+peanutButter,4,4,2,5,5,passive
+peanutButter,1,6,5,6,6,active
+peanutButter,2,7,6,6,6,active
+peanutButter,3,7,6,6,6,active
+peanutButter,4,7,6,6,6,active
+
+

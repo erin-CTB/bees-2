@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+peanutBreath,1,6,5,4,4,active,2
+peanutBreath,2,4,5,4,4,active,2
+peanutBreath,3,4,5,4,4,active,2
+peanutBreath,4,4,5,4,4,active,2
+peanutBreath,1,1,2,1,5,passive,0
+peanutBreath,2,2,6,3,5,passive,0
+peanutBreath,3,2,5,5,5,passive,0
+peanutBreath,4,7,10,5,5,passive,0
+
+

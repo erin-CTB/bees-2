@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition
+chef ann,1,10,6,6,7,passive
+chef ann,2,3,2,6,7,passive
+chef ann,3,7,9,6,7,passive
+chef ann,4,5,4,7,7,passive
+chef ann,1,8,7,6,2,active
+chef ann,2,6,5,4,2,active
+chef ann,3,4,3,2,2,active
+chef ann,4,2,3,2,2,active
+
+

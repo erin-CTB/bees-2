@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition
+Pickled,1,5,7,7,9,active
+Pickled,2,8,9,9,9,active
+Pickled,3,9,10,9,9,active
+Pickled,4,9,10,9,9,active
+Pickled,1,9,8,7,3,passive
+Pickled,2,9,8,7,3,passive
+Pickled,3,5,9,4,3,passive
+Pickled,4,4,3,3,3,passive
+
+

@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition
+beetlejuice,1,7,3,4,6,passive
+beetlejuice,2,6,3,6,6,passive
+beetlejuice,3,4,10,6,6,passive
+beetlejuice,4,8,6,6,6,passive
+beetlejuice,1,6,5,4,3,active
+beetlejuice,2,4,3,3,3,active
+beetlejuice,3,4,3,71,3,active
+beetlejuice,4,4,3,3,3,active
+
+

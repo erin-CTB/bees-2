@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+bilbo,1,7,6,6,6,active,0
+bilbo,2,6,7,6,6,active,0
+bilbo,3,6,7,6,6,active,0
+bilbo,4,6,7,6,6,active,0
+bilbo,1,2,8,7,7,passive,0
+bilbo,2,4,2,6,7,passive,0
+bilbo,3,6,2,6,7,passive,0
+bilbo,4,2,6,6,7,passive,0
+
+

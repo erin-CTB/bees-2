@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition
+MrIncredible,1,9,10,8,8,passive
+MrIncredible,2,5,3,5,8,passive
+MrIncredible,3,4,6,6,8,passive
+MrIncredible,4,3,6,6,8,passive
+MrIncredible,1,6,5,4,4,active
+MrIncredible,2,4,3,4,4,active
+MrIncredible,3,5,4,4,4,active
+MrIncredible,4,5,4,4,4,active
+
+

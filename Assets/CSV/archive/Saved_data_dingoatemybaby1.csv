@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+dingoatemybaby,1,4,6,5,5,passive,2
+dingoatemybaby,2,6,8,5,5,passive,2
+dingoatemybaby,3,8,4,4,5,passive,2
+dingoatemybaby,4,9,7,4,5,passive,2
+dingoatemybaby,1,5,7,7,8,active,1
+dingoatemybaby,2,8,9,8,8,active,1
+dingoatemybaby,3,8,9,8,8,active,1
+dingoatemybaby,4,8,9,8,8,active,1
+
+

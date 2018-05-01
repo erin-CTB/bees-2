@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+batman,1,5,2,5,9,passive,1
+batman,2,2,9,9,9,passive,1
+batman,3,3,8,9,9,passive,1
+batman,4,2,5,9,9,passive,1
+batman,1,5,7,6,5,active,0
+batman,2,6,7,5,5,active,0
+batman,3,5,6,71,5,active,0
+batman,4,5,6,5,5,active,0
+
+

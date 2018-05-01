@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/Home.unity
+    guid: 271d5cc0a9492461ca6c7f0caa2a7f7f
+  - enabled: 1
+    path: Assets/scenes/catDog-Tutorial.unity
+    guid: 1f34dba118c8c43c888a6ebb103d8f8d
+  - enabled: 1
+    path: Assets/scenes/catDog-Passive.unity
+    guid: 27b3bb8242c21451d81f6e6a5241d707
+  - enabled: 1
+    path: Assets/scenes/catDog-Active.unity
+    guid: 11f98c024293843bba6522c7fa603a6a
+  - enabled: 1
+    path: Assets/scenes/End.unity
+    guid: 3e93ab22173304ee5915bd7d2218645e
+  - enabled: 1
+    path: Assets/scenes/TorG.unity
+    guid: ca1f7dfd8b139445689653a708cc4d3b
+  - enabled: 1
+    path: Assets/scenes/IntroStory.unity
+    guid: ff7e62785b3ff459698a7f85acd5a76f
+  - enabled: 1
+    path: Assets/scenes/DogStory.unity
+    guid: 4fe877830fa914052bb5b0475f19c742

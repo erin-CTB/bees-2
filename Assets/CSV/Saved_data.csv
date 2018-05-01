@@ -1,0 +1,11 @@
+Child ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set,Date,Assessor ID,School ID
+ski,1,4,8,3,3,passive,cats,04/27/2018 14:30:38,bobo,watten tatten
+ski,2,10,3,3,3,passive,cats,04/27/2018 14:30:47,bobo,watten tatten
+ski,3,10,2,3,3,passive,cats,04/27/2018 14:30:57,bobo,watten tatten
+ski,4,8,3,3,3,passive,cats,04/27/2018 14:31:04,bobo,watten tatten
+ski,1,5,4,3,3,active,dogs,04/27/2018 14:31:10,bobo,watten tatten
+ski,2,3,4,3,3,active,dogs,04/27/2018 14:31:14,bobo,watten tatten
+ski,3,3,4,3,3,active,dogs,04/27/2018 14:31:17,bobo,watten tatten
+ski,4,3,4,3,3,active,dogs,04/27/2018 14:31:21,bobo,watten tatten
+
+

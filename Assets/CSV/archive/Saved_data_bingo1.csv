@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+bingo,1,2,7,6,3,passive,1
+bingo,2,3,10,6,3,passive,1
+bingo,3,4,10,3,3,passive,1
+bingo,4,9,7,3,3,passive,1
+bingo,1,6,5,5,5,active,0
+bingo,2,6,5,5,5,active,0
+bingo,3,6,5,5,5,active,0
+bingo,4,6,5,5,5,active,0
+
+

@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition
+spidey,1,6,5,4,2,active
+spidey,2,4,3,2,2,active
+spidey,3,2,3,2,2,active
+spidey,4,2,3,2,2,active
+spidey,1,1,6,1,8,passive
+spidey,2,10,8,71,8,passive
+spidey,3,3,4,71,8,passive
+spidey,4,8,6,71,8,passive
+
+

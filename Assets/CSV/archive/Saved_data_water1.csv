@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+water,1,5,9,8,3,passive,1
+water,2,6,3,71,3,passive,1
+water,3,4,6,5,3,passive,1
+water,4,10,1,71,3,passive,1
+water,1,7,8,8,8,active,0
+water,2,9,8,8,8,active,0
+water,3,8,9,8,8,active,0
+water,4,8,9,8,8,active,0
+
+

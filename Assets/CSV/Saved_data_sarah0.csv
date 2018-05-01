@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+sarah,1,6,5,4,3,active,0
+sarah,2,4,3,3,3,active,0
+sarah,3,3,4,3,3,active,0
+sarah,4,3,4,3,3,active,0
+sarah,1,2,6,6,7,passive,0
+sarah,2,6,10,71,7,passive,0
+sarah,3,1,10,71,7,passive,0
+sarah,4,1,4,71,7,passive,0
+
+

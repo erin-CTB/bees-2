@@ -1,0 +1,11 @@
+User ID,Block,Sampling Trial 1,Sampling Trial 2,Classification Guess,Category Boundary,Condition,Card Set
+drseuss,1,7,8,8,9,active,0
+drseuss,2,9,10,9,9,active,0
+drseuss,3,9,10,9,9,active,0
+drseuss,4,9,10,9,9,active,0
+drseuss,1,1,6,5,4,passive,0
+drseuss,2,3,10,5,4,passive,0
+drseuss,3,10,2,5,4,passive,0
+drseuss,4,8,3,4,4,passive,0
+
+
