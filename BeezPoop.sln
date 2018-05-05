@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeezPoop", "BeezPoop.csproj", "{23A4EA69-C8C3-E1EC-896F-C123E7BE7A93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeezPoop.Plugins", "BeezPoop.Plugins.csproj", "{F3A96B93-BB90-3DC3-25E8-341280F50A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeezPoop.Editor", "BeezPoop.Editor.csproj", "{6A801256-C60A-3BF5-BC5C-5EB0E11597E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A4EA69-C8C3-E1EC-896F-C123E7BE7A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A4EA69-C8C3-E1EC-896F-C123E7BE7A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A4EA69-C8C3-E1EC-896F-C123E7BE7A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A4EA69-C8C3-E1EC-896F-C123E7BE7A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A96B93-BB90-3DC3-25E8-341280F50A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A96B93-BB90-3DC3-25E8-341280F50A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A96B93-BB90-3DC3-25E8-341280F50A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A96B93-BB90-3DC3-25E8-341280F50A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A801256-C60A-3BF5-BC5C-5EB0E11597E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A801256-C60A-3BF5-BC5C-5EB0E11597E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A801256-C60A-3BF5-BC5C-5EB0E11597E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A801256-C60A-3BF5-BC5C-5EB0E11597E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
