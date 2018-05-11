@@ -11925,6 +11925,13 @@ extern "C" void BallMaker2_Update_m2408048819 ();
 extern "C" void BallMover__ctor_m1611179837 ();
 extern "C" void BallMover_Start_m222841931 ();
 extern "C" void BallMover_Update_m2277009789 ();
+extern "C" void BallMover_ScaleMe_m3816124714 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0__ctor_m3413296208 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0_MoveNext_m4047717577 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0_System_Collections_Generic_IEnumeratorU3CobjectU3E_get_Current_m958023871 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0_System_Collections_IEnumerator_get_Current_m4229124848 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0_Dispose_m3138475988 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0_Reset_m1461695568 ();
 extern "C" void BallMover2__ctor_m4127016085 ();
 extern "C" void BallMover2_Start_m1542475233 ();
 extern "C" void BallMover2_Update_m3941995629 ();
@@ -12009,10 +12016,18 @@ extern "C" void ColorSliderImage_RegenerateTexture_m3389274210 ();
 extern "C" void controller__ctor_m611943820 ();
 extern "C" void controller_Start_m1475942296 ();
 extern "C" void controller_Update_m3000731382 ();
+extern "C" void controller_ScaleMe_m2571879621 ();
 extern "C" void controller_go_m894024446 ();
 extern "C" void controller_setter_m4135848795 ();
 extern "C" void controller_CreateBall_m3270478414 ();
 extern "C" void controller_createThings_m435059429 ();
+extern "C" void controller_scaleMe_m544650441 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0__ctor_m2206701364 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0_MoveNext_m542051410 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0_System_Collections_Generic_IEnumeratorU3CobjectU3E_get_Current_m2508443813 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0_System_Collections_IEnumerator_get_Current_m38365031 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0_Dispose_m1744940838 ();
+extern "C" void U3CScaleMeU3Ec__Iterator0_Reset_m2437045757 ();
 extern "C" void createBeesButton__ctor_m1273776199 ();
 extern "C" void createBeesButton_Start_m4081515371 ();
 extern "C" void createBeesButton_TaskOnClick_m3930673781 ();
@@ -12718,7 +12733,7 @@ extern "C" void VideoFormatsExample_Start_m1615238214 ();
 extern "C" void VideoFormatsExample_OnDestroy_m541603283 ();
 extern "C" void VideoFormatsExample_PopulateVideoFormatButtons_m595526008 ();
 extern "C" void VideoFormatsExample_ExampletButtonPressed_m2588664126 ();
-extern const Il2CppMethodPointer g_MethodPointers[12700] = 
+extern const Il2CppMethodPointer g_MethodPointers[12715] = 
 {
 	Locale_GetText_m3374010885,
 	Locale_GetText_m1601577974,
@@ -24627,6 +24642,13 @@ extern const Il2CppMethodPointer g_MethodPointers[12700] =
 	BallMover__ctor_m1611179837,
 	BallMover_Start_m222841931,
 	BallMover_Update_m2277009789,
+	BallMover_ScaleMe_m3816124714,
+	U3CScaleMeU3Ec__Iterator0__ctor_m3413296208,
+	U3CScaleMeU3Ec__Iterator0_MoveNext_m4047717577,
+	U3CScaleMeU3Ec__Iterator0_System_Collections_Generic_IEnumeratorU3CobjectU3E_get_Current_m958023871,
+	U3CScaleMeU3Ec__Iterator0_System_Collections_IEnumerator_get_Current_m4229124848,
+	U3CScaleMeU3Ec__Iterator0_Dispose_m3138475988,
+	U3CScaleMeU3Ec__Iterator0_Reset_m1461695568,
 	BallMover2__ctor_m4127016085,
 	BallMover2_Start_m1542475233,
 	BallMover2_Update_m3941995629,
@@ -24711,10 +24733,18 @@ extern const Il2CppMethodPointer g_MethodPointers[12700] =
 	controller__ctor_m611943820,
 	controller_Start_m1475942296,
 	controller_Update_m3000731382,
+	controller_ScaleMe_m2571879621,
 	controller_go_m894024446,
 	controller_setter_m4135848795,
 	controller_CreateBall_m3270478414,
 	controller_createThings_m435059429,
+	controller_scaleMe_m544650441,
+	U3CScaleMeU3Ec__Iterator0__ctor_m2206701364,
+	U3CScaleMeU3Ec__Iterator0_MoveNext_m542051410,
+	U3CScaleMeU3Ec__Iterator0_System_Collections_Generic_IEnumeratorU3CobjectU3E_get_Current_m2508443813,
+	U3CScaleMeU3Ec__Iterator0_System_Collections_IEnumerator_get_Current_m38365031,
+	U3CScaleMeU3Ec__Iterator0_Dispose_m1744940838,
+	U3CScaleMeU3Ec__Iterator0_Reset_m2437045757,
 	createBeesButton__ctor_m1273776199,
 	createBeesButton_Start_m4081515371,
 	createBeesButton_TaskOnClick_m3930673781,

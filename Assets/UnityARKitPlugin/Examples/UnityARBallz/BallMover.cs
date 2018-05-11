@@ -49,7 +49,7 @@ public class BallMover : MonoBehaviour {
 				GameObject selectedObject = raycastHit.collider.gameObject;
 
 				if (raycastHit.collider.gameObject.CompareTag("flower")) {
-                    StartCoroutine(ScaleMe(hit.transform));
+                    StartCoroutine(ScaleMe(raycastHit.transform));
                     //iTween.Hash("position", new Vector3(shovel.transform.position.x - 100, shovel.transform.position.y, shovel.transform.position.z), "time", 3.0f, "oncomplete", "setPosAndSpeed", "oncompletetarget", gameObject)
 					int flowerIndex = System.Array.IndexOf (flowers, selectedObject);
 					//label.text ="flower: "+flowerIndex + " taps "+(flowerTaps[flowerIndex]) + " height: "+height[(flowerTaps[flowerIndex])] ;
